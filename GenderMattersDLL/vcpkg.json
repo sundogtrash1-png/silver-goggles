@@ -1,0 +1,7 @@
+{
+  "name": "gender-matters-dll",
+  "version": "1.0.0",
+  "dependencies": [
+    "commonlibsse-ng"
+  ]
+}
